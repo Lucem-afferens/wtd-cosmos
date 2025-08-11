@@ -63,7 +63,7 @@ body {
       width: 100%;
       height: 100%;
       bottom: 0;
-      background: url('img/stick_peolpes.webp') 50%/contain no-repeat;
+      background: url('/img/stick_peolpes.webp') 50%/contain no-repeat;
       background-position: 50% 110%;
       opacity: .3;
     }
@@ -74,7 +74,7 @@ body {
       max-width: 450px;
       height: 100%;
       opacity: .4;
-      background: url('img/stick_hands_love.webp') 50%/contain no-repeat;
+      background: url('/img/stick_hands_love.webp') 50%/contain no-repeat;
     }
     &_programm {
       display: block;
@@ -82,7 +82,7 @@ body {
       width: 100%;
       height: 100%;
       bottom: 0;
-      background: url('img/stick_people_faces_loop.webp') 50%/contain no-repeat;
+      background: url('/img/stick_people_faces_loop.webp') 50%/contain no-repeat;
       opacity: .2;
     }
     &_footer {
@@ -91,7 +91,7 @@ body {
       width: 100%;
       height: 100%;
       bottom: 0;
-      background: url('img/stick_faces.webp') 50%/contain no-repeat;
+      background: url('/img/stick_faces.webp') 50%/contain no-repeat;
       opacity: .4;
     }
   }
@@ -107,7 +107,7 @@ h1 {
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: #E9E9E9;
+    background-color: #101928;
     z-index: 9999;
     transition: opacity 1.2s ease;
     pointer-events: all;
