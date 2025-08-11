@@ -7,7 +7,7 @@
     position: relative;
     overflow: visible;
     &__date {
-        font-size: clamp(20px, 5vw, 34px);
+        font-size: clamp(30px, 5vw, 36px);
         font-family: $font-cursive;
         background: linear-gradient(90deg, #a18cd1, #fbc2eb, #a18cd1, #fbc2eb, #a18cd1);
         background-clip: text;
@@ -34,8 +34,8 @@
         margin: 0 auto;
         align-items: center;
         padding-bottom: 5vh;
-        bottom: 0;
-        gap: 15px;
+        bottom: 5px;
+        gap: 5px;
         position: absolute;
         left: 50%;
         transform: translateX(-50%);
