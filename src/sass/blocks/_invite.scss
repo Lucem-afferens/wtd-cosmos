@@ -1,0 +1,12 @@
+.invite {
+    min-height: 500px;
+    padding-top: 50px;
+    position: relative;
+    z-index: 2000;
+    &__wrapper {
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        gap: 40px;
+    }
+}
